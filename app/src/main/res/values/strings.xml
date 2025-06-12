@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Prueba Mapas</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="btn_navegar_text">Cómo llegar</string>
+</resources>
